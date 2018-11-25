@@ -1,0 +1,5 @@
+Satyr
+  * +2 CHA, +1 STR, 35 speed
+  * Languages: Common, Elvish, Sylvan.
+  * Proficiencies: Performance, Panpipes.
+  * Drinking Buddy: Advantage on CHA checks if all creatures involved are drinking alcohol (including you).

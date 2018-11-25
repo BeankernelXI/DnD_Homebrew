@@ -1,0 +1,7 @@
+Magmin
+  * +2 INT, +1 DEX, Small, can't swim
+  * Languages: Common, Ignan.
+  * Immunity to fire damage.
+  * Ignited Illumination: As a bonus action, you can set yourself ablaze or extinguish these flames. While ablaze you give off bright light in a 10-foot radius and dim light for an additional 10 feet.
+  * Molten Skin: If you take cold damage or are splashed with water (including rain) your base speed is reduced to 10 and your AC increases by 2 until the end of your next turn. You may choose to extend this effect for up to an hour. If you are submerged in water you are considered temporarily petrified.
+  * Mischievous: ??

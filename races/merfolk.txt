@@ -1,0 +1,9 @@
+Merfolk
+  * +1 DEX, +1 CON, +1 CHA, amphibious, 20 ft walking speed, 40 ft swim speed
+  * Languages: Common, Aquan.
+  * Merfolk Weapon Training: You have proficiency with Tridents.
+  * You know the Shape Water cantrip. When you reach level 3 you can cast Alter Self once with this ability and regain this ability after you finish a short or long rest. Charisma is your spellcasting ability for these spells.
+  * Similar Morphology: When you cast Alter self you may choose to have your tail appear as legs as part of the Change Appearance option. If you do, your base walking speed increases by 10 and your base swimming speed decreases by 10.
+  * If one or more of your classes have the Spellcasting feat, the following spells count as spells of those classes for you: Control Water, Armor of Agathys, Create or Destroy Water, Tsunami, Water Breathing.
+  * Salvager: Once per day you can spend up to four hours searching for lost or discarded valuables. Make an Investigation check (INT) and look up the result in the following table. You find a combination of items and money worth that value multiplied by the number of hours you spent. If the DM feels it is appropriate also multiply by a modifier based on the affluence of the surronding area and your familiarity with it.
+      * 10-14: 5gp, 15-17: 10gp, 18-19: 20gp, 20-21: 50gp, 22-23: 100gp, 24-25: 200gp, 26+: 20x result.

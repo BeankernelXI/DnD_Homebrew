@@ -1,0 +1,8 @@
+Sprite
+  * +2 DEX, +1 INT, Tiny, 30 ft fly
+  * Languages: Common, Elvish, Sylvan.
+  * Proficient with Poisoner's kit and can use one to make antidotes
+  * You know the Thaumaturgy cantrip.
+  * Heart Seer: You can sense whether a creature is good or evil based on the sound and feeling of its heartbeat.
+  * Resourceful: With enough time left to yourself in nature you can craft makeshift versions of any of the following items:
+      * short-bow, short-sword, arrows, quiver, studded leather armor, tent, bedroll.

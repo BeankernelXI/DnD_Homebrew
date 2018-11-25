@@ -1,0 +1,11 @@
+Dryad
+  * +1 CHA
+  * Languages: Common, Elvish, Sylvan.
+  * Forest-kin: You can cast Tree Stride at will but are limited to trees within 30 ft of each other.
+  Subraces:
+    Treebound: There is a tree somewhere on the material plane that you call home.
+      * +2 INT. 
+      * Fey Charm: TODO
+    Uprooted: Your home has been destroyed. You are overcome with madness.
+      * +2 STR.
+      * TODO

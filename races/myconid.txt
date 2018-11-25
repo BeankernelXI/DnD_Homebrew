@@ -1,0 +1,14 @@
+Myconid
+  * +2 WIS, +1 CON
+  * Languages: Telepathy only via touch.
+  * Superior Darkvision
+  * Resistance to poison damage and adv on saving throws to resist poison and disease
+  * Sun Sickness: Disadvantage on ability checks, and saving throws while in direct sunlight.
+  * Rapport Spores: A 15-foot radius of spores extends from you, affecting all creatures that aren't undead or constructs. Affected creatures can communicate telepathically with one another while they are whithin 100 feet of one one another. This effect lasts an hour.
+  Based on Alignment:
+    Evil:
+      * Fungal Domain: Implant spores in a corpse. You have awareness of and the ability to telepathically communicate with creatures in a 100 ft radius of it. The effect begins 1d4 days after burying the corpse and ends if the corpse is exhumed or after one year.
+    Good:
+      * Life Support: Once per day touch one willing creature. That creature has advantage on saving throws to resist or remove status conditions (including death saving throws). This effect lasts one hour. 
+    Neutral:
+      * Pacifying Spores: Once per day as an action all creatures in a 5-foot cone must succeed a CON save (based on your WIS) or be stunned for 1 minute. The effect ends if they take damage or another creature uses an action to shake or slap them out of it.

@@ -1,0 +1,33 @@
+Lycanthropic Curse
+  All Forms:
+    * Shapechange: As an action, shift between humanoid, beast, and hybrid forms. 2 day cooldown. Revert to humanoid form on death.
+    * Unstable: During particular lunar events (chosen by the DM) make a DC 15 CON save or be forced to shapechange
+    * Proficient in Intimidation.
+    * Keen hearing and smell: You have advantage on hearing/smell based Perception checks.
+    * Damage to you from silvered weapons is doubled and causes the poisoned effect for one hour.
+    * You register as evil by 'Detect evil and good' and similar effects regardless of your alignment.
+  Hybrid:
+    * You have all skills, abilities, feats, etc. of both other forms unless otherwise noted.
+    * Each creature that sees you must succeed on a DC 15 WIS save or become hostile or frightened until it ends its turn out of line of sight of you (chosen by DM). A creature that becomes hostile this way and lives is immune to this effect for the rest of its life. Your allies are immune to this effect.
+  Beast: (based on curse)
+    Wolf:
+      * +2 Strength, +2 Dexterity.
+      * +10 speed (beast form only).
+      * Multiattack (claw): Make two melee attacks using STR or DEX, 2d6 slashing damage. Make one attack instead if you are below level 5.
+    Bear:
+      * +4 Strength. Climbing speed equal to your walking speed.
+      * Multiattack (claw): Make two melee attacks using STR, 2d6 slashing damage. Make one attack instead if you are below level 5.
+    Boar:
+      * +2 Strength.
+      * +10 speed (beast form only).
+      * Multiattack (tusks): Make two melee attacks using STR, 2d4 slashing damage. Make one attack instead if you are below level 5.
+      * Charge: After at least 15ft of continuous movement in a line, your next tusk attack to hit this turn deals 2d6 slashing damage and the target must succeed a STR save (DC based on STR) or be knocked prone.
+    Rat:
+      * +2 Dexterity.
+      * Size Small (beast form only)
+      * Multiattack (bite): Make three melee attacks using DEX, 1d4 piercing damage. Make two attacks instead if you are below level 5. 
+      * Pack Tactics: Attacks against creatures that are within 5ft of one of your allies have advantage.
+    Eagle:
+      * +2 Strength. Flying speed equal to your walking speed while unarmed.
+      * Multiattack (talon): Make two melee attacks using STR, 1d6 slashing damage. A creature hit by this attack must make a STR save (DC based on STR) or be grappled. Make one attack instead if you are below level 5.
+      * Grappling does not cause a penalty to your speed.

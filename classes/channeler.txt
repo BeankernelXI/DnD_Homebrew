@@ -1,0 +1,28 @@
+Channeler
+
+  You are a magical power source with only limited ability to draw from it yourself. Wands, Weapons, everyday objects, and occasionally other creatures instead become your vessels.
+
+  Create Conduit: 
+    Starting at level 1 you gain the ability to channel your spells into objects. Choose a spell you know and expend an appropriate spell slot to turn a small object (that could fit in your hand) into a conduit, as an action. When you do so choose one of the following triggers which will release the spell: the object takes damage, a chosen amount of time passes, while touching the object you speak a chosen command word. The object remains in this state for up to a minute and only as long as it stays within 15ft of you. When the spell is released it is treated as having a range of 0 or touch, whichever is appropriate. You are the caster of the spell so any requirements of the caster, including concentration, fall to you. Normal spellcasting restrictions apply (one spell and one cantrip per round, no casting while wearing inappropriate armor, etc). Components, casting time, and any modes (ex prestidigitation) should be taken into account when creating the conduit and not when releasing the spell.
+
+  At level 2 you choose a subclass
+    as an "Offensive Channeler" you can channel spells into your own hands as part of your create conduit ability
+    as a "Defensive Channeler" you have learned to take your time and can cast ritual spells AS RITUALS ONLY
+
+  At level 3 conduits retain their magic up to 60ft and others can speak an object's command word to trigger it, not just you.
+
+  At level ? when a conduit releases its spell it keeps its conection to you for a short time.
+
+Subclass options:
+
+  Artisan - preparation, practicality, sacrifice
+    Larger conduits
+    Create Wands
+      expensive, for the lifetime of the wand removes your spellslots (you choose how many when creating), limited to a single spell. 
+
+  Spititualist -  stronger connections, adaptable, longevity
+    Significantly increased range and duration conduits
+    Ritual Casting
+      You learn to channel your spells thru the very ground you stand on.
+    something useful in long combats. what?
+      cantrips are within reach

@@ -1,0 +1,7 @@
+Kuo-Toa
+  * +2 STR, +1 WIS, amphibious, swim speed equal to walking speed,
+  * Languages: Common, Undercommon, Aquan.
+  * Otherworldly Perception: You can sense the presence of creatures within 30 ft of you. You always know the number, and as an action can focus to dectect the precice location of moving creatures in the same range, including invisible creatures and creatures moving in the ethereal plane.
+    Choose one:
+      * Slippery: adv against being grappled, can slide at no cost to movement while prone.
+      * Sticky: After a creature makes a melee attack against you you may try to grapple them as a reaction.

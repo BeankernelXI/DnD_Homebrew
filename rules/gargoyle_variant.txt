@@ -1,0 +1,4 @@
+Gargoyle variant
+  * 12 base AC, immune to poison, disease, and petrification
+  * Heavy: falling damage is doubled, standing from prone costs full movement, flying speed is halved (half of zero is zero).
+  * False Appearance: While you remain motionless, you are indistinguishable from a statue.

@@ -1,0 +1,13 @@
+Planeswalker (mutt of many bipedal races)
+  * +1 to 3 different stats, double walking speed in the astral plane
+  * Languages: Common and any laguages associated with your lineages
+  Choose 2 lineages:
+    * Dwarven Expertice: Profciency with two kinds of artisan’s tools. Your profciency bonus is doubled for them.
+    * Elven Versatility: Gain proficiency in two of (short and long swords), (short and long bow), a skill of your choice.
+    * Fey Ancestry: Adv against charm, can't be forced to sleep.
+    * Halfling Luck: Reroll 1s on skill checks and saving throws.
+    * Draconic Resistance: You have 1 legendary resistance. Must perform an extravagent ritual to regain it (1000gp and 8 hours).
+    * Gnome Cunning: Adv on saves to resist magic (INT, WIS, CHA).
+    * Orcish Savagery: Roll one additional damage die on crits.
+    * Infernal Legacy: Fire resistance, dark vision.
+    * Feline Agility: You can dash as a free action. Once you use this trait, you can't use it again until you move O feet on one of your turns.
