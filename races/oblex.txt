@@ -1,0 +1,6 @@
+Oblex
+  * +2 INT, +1 CON, 20 ft "walking" speed
+  * Languages: Common and any languages known by your active simulacrums
+  * Well Disguised: You have proficiency in the Deception skill
+  * Eat Memories: Once per day, you can absorb the memories of target creature within 10 feet of you, learning enough about them to accurately mimic them. You gain one of that creature's INT, WIS, or CHA proficiencies until you successfully use this feature again. An unwilling creature that makes a CHA save (INT) is unaffected.
+  * Sulfurous Impersonation: You have the ability to extrude a piece of yourself that assumes the appearance and physical statistics of one creature no larger than you whose memories you have stolen. This simulacrum appears, feels, and sounds exactly like the creature it impersonates. It is tethered to you by a slimy, nearly invisible, 120 foot strand and is still technically a part of you. You have a number of simultaneous simulacrums equal to half your intelligence modifier (rounded down, minimum 1).

@@ -25,9 +25,16 @@ Lycanthropic Curse
     Rat:
       * +2 Dexterity.
       * Size Small (beast form only)
-      * Multiattack (bite): Make three melee attacks using DEX, 1d4 piercing damage. Make two attacks instead if you are below level 5. 
+      * Multiattack (bite): Make three melee attacks using DEX, 1d4 piercing damage. Make two attacks instead if you are below level 5.
       * Pack Tactics: Attacks against creatures that are within 5ft of one of your allies have advantage.
     Eagle:
       * +2 Strength. Flying speed equal to your walking speed while unarmed.
       * Multiattack (talon): Make two melee attacks using STR, 1d6 slashing damage. A creature hit by this attack must make a STR save (DC based on STR) or be grappled. Make one attack instead if you are below level 5.
       * Grappling does not cause a penalty to your speed.
+    Shark:
+      * +2 Strength. Swimming speed equal to your walking speed.
+      * Water Breathing: Can breathe underwater (can't breathe air in beast form normally)
+      * Dash as a bonus action while underwater
+      * Multiattack (bite): Make two melee attacks using STR, 2d6 piercing damage. Make two attacks instead if you are below level 5.
+      * Rough Skin: Hostile creatures who attempt to grapple you or make non-weapon melee attacks against you suffer 1d6 slashing damage.
+

@@ -1,0 +1,8 @@
+Meazel
+  * +2 DEX, +1 WIS
+  * Languages: Common.
+  * Superior Darkvision
+  * Stealth: You can Hide as a bonus action.
+  * Hateful Hermit: You have proficiency in the Intimidation skill
+  * @#$% Light: Your eyes are so attuned to darkness that you can't help but pinpoint the locations of light sources who's light you can see, even around corners and under doors.
+  * Shadow Teleport: You and any creature you are grappling teleport up to 60 ft to an unoccupied space, provided that both your current location and your destination are in dim light or darkness. You may not use this ability again until you complete a long rest.

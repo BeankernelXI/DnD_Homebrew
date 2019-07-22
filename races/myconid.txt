@@ -1,6 +1,6 @@
 Myconid
   * +2 WIS, +1 CON
-  * Languages: Telepathy only via touch.
+  * Languages: Telepathy via touch.
   * Superior Darkvision
   * Resistance to poison damage and adv on saving throws to resist poison and disease
   * Sun Sickness: Disadvantage on ability checks, and saving throws while in direct sunlight.
