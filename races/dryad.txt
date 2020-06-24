@@ -1,11 +1,12 @@
 Dryad
   * +1 CHA
   * Languages: Common, Elvish, Sylvan.
-  * Forest-kin: You can cast Tree Stride at will but are limited to trees within 30 ft of each other.
+  * Tree-kin: You can cast Tree Stride at will but are limited to trees within 30 ft of each other.
+  * Woodland Creature: A Dryad who takes up a Paladin oath may summon a Unicorn using the Find Steed spell.
+  * don't step plant snek: You can pass thru nonmagical plants without being slowed or dealt damage by them. Additionally you can use your action to dispell conjured plants or spells affecting plants if the spell in question is level 3 or lower.
   Subraces:
     Treebound: There is a tree somewhere on the material plane that you call home.
       * +2 INT. 
-      * Fey Charm: TODO
+      * Fey Charm: 
     Uprooted: Your home has been destroyed. You are overcome with madness.
       * +2 STR.
-      * TODO

@@ -1,10 +1,10 @@
 Planeswalker (decendant of multiple bipedal races)
-  * +1 to 3 different stats, double walking speed in the astral plane
+  * +1 to a stat of your choice, double walking speed in the astral plane
   * Languages: Common and any laguages associated with your lineages
-  Choose 2 recent lineages:
+  Choose 2 prominent lineages:
     * Dwarven Expertice: Profciency with two kinds of artisan’s tools. Your profciency bonus is doubled for them.
     * Elven Versatility: Gain proficiency in two of [short and long swords], [short and long bows], [a skill of your choice].
-    * Fey Wiles: Impose disadvantage on saving throws to resist your spell and ability effects on creatures within 10 ft of you.
+    * Fey Wiles: Impose disadvantage on saving throws to resist your spell and ability effects on creatures within 5 ft of you.
     * Halfling Luck: Reroll 1s on skill checks, saving throws, and attack rolls.
     * Draconic Resistance: You have 1 legendary resistance. Must perform an extravagent ritual to regain it (1000gp and 8 hours at a specific location chosen by the DM).
     * Gnome Cunning: Adv on saves to resist magic (INT, WIS, CHA).

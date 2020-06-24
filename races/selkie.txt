@@ -1,0 +1,12 @@
+Selkie
+  * +2 WIS, +1 DEX
+  * Languages: Common, Gealic
+  * Therianthropy: You exist in two forms: a seal and a human. As a seal you are a creature of the sea, agile. You have a swim speed __ and a walking speed __ and lose your armor proficiency(s). Your skin gives you natural armor (). As a bonus action you can shed your skin becoming human. You are not a shapeshifter, your human form is as much you as your seal form. Wrapping yourself in your sealskin as a bonus action returns you to your seal form. You choose whether your Equipment falls to the ground in your space, merges into your new form, or is worn by it.
+
+Half-Selkie
+  * Appearance: Unable to transform, the seal in you manifests in strange ways (much like a sorcerous origin). You may have webbed fingers and toes, patches of fur, the head of a seal, smell like a fish. Some myths describe half-selkies who better resemble merfolk than humans.
+
+
+
+Player Warning: Be aware that, here on earth, tales about Selkies usually involve being stripped of their ability to transform and forced into mariage. Often, these stories end with the Selkie retrieving their sealskin and escaping back into the sea, but abandoning their children in the process. When creating a backstory for a Selkie character, approach these topics with care. Communicate with your fellow players.
+

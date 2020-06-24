@@ -1,0 +1,47 @@
+Tenticles of Attunement -
+  These tenticles can attune to any one item. Attuning to the tenticles grants you any bonuses that the tenticles are granted when using its item.
+
+Arrow of Anticipation -
+  Follows the trajectory of a normal arrow but at walking pace
+
+The First Egg -
+  Grants advantage on CHA checks with children to any MOTHER who attunes to it. "It came first."
+
+Pet Rat -
+  It surely has some magical properties but no one has ever managed to keep it still long enough to attune to it.
+
+Mysterious Map -
+  It is a Harry Potter Marauders' Map but you aren't sure of where.
+
+Bulb of Light -
+  This bulb gives off constant dim light (10ft). A creatures attuned to this item can speak its command word to cause it to glow brightly for a few moments (30ft). All shadows cast by living creatures from this light become Shadows for 1 hour or until they are reduced to 0 hit points (MM pg 269). The Shadows are hostile to everyone they see apart from eachother and treat light from this Bulb like it's sunlight.
+
+Gallon Potion -
+  A very diluted potion. Drinking any less than all of it yields a substantially reduced effect. "Chug! Chug! Chug!"
+
+My Pillow -
+  You gain a +1 bonus (versatile +2) to shove attacks made with this weapon. (0 dmg, light, finesse, thrown (20/60), versatile)
+  Attuning to this Pillow over a long rest cures you of any amount of exhaustion. But now you are attuned to a Pillow.
+
+Polyhedron of Determining Skill -
+  Once per day, in advance of taking an action that would require a skill check, a creature attuned to this item can roll it and may use the result on the subsequent action or may choose not to take that action at all.
+
+Dippleganger -
+  
+The Perfect Accessory -
+  
+Ring of Unending Insight -
+  
+
+Tome of Completion -
+  Appears to you, dear reader, as a complete and authentic copy of the last book you read at least one page of but didn't finish.
+
+Mordenkainen's Match -
+  
+Ring of Teleportation -
+  
+Glitterdust Makeup Kit -
+  Once per day you can cover yourself or an ally in a layer of glitter, gaining the benefits of the disguise self spell until you wash it off. It doesn't come off easily and any clothes or armor the glitter gets on will never be completely rid of it.
+  
+10-ft Pole [Modest] -
+  An unheard of 11 foot long pole. It must be magic. "+10% Sp. Atk"

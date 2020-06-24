@@ -1,0 +1,62 @@
+Holiday SubClasses
+
+Paladin: Oath of Cookies
+
+  When you take this oath at 3rd level you gain the following two Channel Divinity options.
+    Star Baker. You can use your channel divinity after baking to put your heart and soul into a number of the confections equal to your Paladin level. Choose one of the following for each:
+      - Deal 2d4 fire damage when thrown (burnt)
+      - Heal 1d4 hp
+      - Grant dark vision and cold resitance for 1 hour
+      - You are immune/undetectable to divination magic for 1 hour
+      After 24 hours or if you use this ability again, the cookies return to normal.
+    Irresistable Warmth. Choose a creature within 60 ft of you. They must make a WIS saving throw or be compelled to move to within 5 ft of you for the next minute, repeating the save at the end of each of their turns. They make saving throws for this ability with disadvantage if they have been dealt cold damage since your last turn.
+
+  Oath Spells
+    Purify Food and Drink, Searing Smite
+    Heat Metal, Flame Blade, Suggestion
+    Flame Arrows
+    Fire Shield
+    Immolation, Circle of Power, Commune
+
+  Aura of the Hearth
+    Beginning at 7th level whenever you or a friendly creature within 10 feet of you deals fire damage they may gain temporary hit points equal to your CON modifier (min 1)
+      At 18th level the range of this aura increases to 30 ft.
+
+  Lively Baking
+    Starting at 15th level, when you use your Star Baker Channel Divinity, you may choose the following as one of your options for an appropriately shaped cookie:
+      Bite-Sized Cookie Golem -- 1 HP Tiny Chaotic Construct; 10 AC; 15 ft speed; all stats are 1; CR 0; Unarmed Strike: -3 to hit, 1 Bludgeoning Damage; Delicious: if eaten retores 1 HP.
+      They do what they think their master would want. They don't know any languages, however.
+
+  At level 20, SOMETHING AMAZING!!
+
+    ?? Heroes' Feast, Investiture of Flame
+
+
+Rogue: Secret Santa
+  Lively and Quick
+    When you choose this archetype at 3rd level, you gain the ability to move through a space as narrow as a small chimney (1 inch) without squeezing.
+  Hung by the Chimney with Care
+    At 3rd level, you learn how to use a disguise kit to hide the nature of an object with wrappings and ornaments. You gain a disguise kit if you don't already have one.
+
+  Checking it Twice
+    At 9th level, you get the ability to cast Legend Lore once per long rest without expending a spell slot or spell components.
+
+  And Called them by Name
+    At 13th level, you can call the names of a number of Beasts equal to your wisdom modifier (minimum 1) and they come running from 'offscreen' if possible. The type of Beast should be something you might summon with the Find Steed spell. They are friendly towards you and otherwise are normal animals.
+
+  17th
+
+Ranger: Emmissary of the North
+  Snow Place like Home
+    When you take this conclave at 3rd level, the ground beneath you begins to chill as you walk. Once per short rest you can call forth the norther winds, blanketing the surrounding area in glistenning snow.
+
+    While on snow you can use an unarmed attack to throw two snowballs. You are proficient with them, dealing 1d4 cold damage, they count as ranged weapon attacks with thrown (20/60) and finesse.
+      HEY FUTURE ME! (multiclass danger with monk?)
+
+    Snilloc's Snowball Swarm
+
+
+--WIP--
+Fighter: Tactical Shopper
+  turn shopping into a minigame
+  gives unwanted gifts

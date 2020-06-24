@@ -1,0 +1,5 @@
+Ghost
+  * +2 CHA, +1 DEX, 30 ft fly (hover), 
+  * Incorporeal: You can pass through solid objects and other creatures as if they were difficult terrain. Take 1d10 force damage if you end your turn inside and object.
+  * Possesion: As an action, you can dissapear into the body of a creature who's space you currently occupy. The two of you can communicate telepathically. The creature retains all its body's normal functionality unless you command the body yourself as an action. If you do so the creature must make a WIS save (DC based on CHA) to resist the effects. The command should fit the desription of a suggestion from the Suggestion spell. The possesion ends if the creature resists your effects 3 times or you choose to end it as a bonus action. You cannot use this ability again until you complete a long rest.
+  * Unfinished Business: Your soul will not find rest until this is complete. When you do complete it you are freed. If appropriate, the specifics of "this" might include a weakness that must be overcome.

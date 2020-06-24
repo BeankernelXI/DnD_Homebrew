@@ -5,3 +5,4 @@ Pixie
   * Careful Study: You have advantage on Insight (WIS) checks on targets who you are hidden from.
   * Trixie: You know the Druidcraft cantrip. When you reach level 3, you can cast Enlarge/Reduce once per day. When you reach level 5, you can also cast Phantasmal Force once per day. Wisdom is your spellcasting ability for these spells.
   * Peek-a-Boo: Once per day you can close your eyes to turn invisible as if by the Invisibility spell. The effect ends if you open your eyes.
+™️

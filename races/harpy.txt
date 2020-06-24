@@ -1,0 +1,6 @@
+Harpy
+  * +1 CON, 30 ft fly
+  * Languages: Common
+  * Exhibitionist: +2 CHA if your clothing/armor shows too much skin to be practical IRL (still grants normal benefits in D&D).
+  * Luring Song: Every humanoid or giant creature in a 30 ft radius must make a WIS save (DC based on CHA) or be charmed until the song ends. Take your bonus action on each turn to continue singing. You stop singing if you are incapacitated or choose to stop. While charmed, a target is incapacitated and must move directly to within 5 feet of the you if possible or get as close as it can. At the end of each of its turns, or if it would move into dangerous terrain, or if it takes damage, a target my repeat the saving throw ending the effect on a success. You cannot use this ability again until you complete a long rest.
+  * Not Just a Pretty Face: Choose an ability other than Charisma. Whenever you make a skill check using that ability, add half your proficiency bonus (rounded down).

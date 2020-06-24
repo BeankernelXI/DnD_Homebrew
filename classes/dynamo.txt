@@ -1,0 +1,118 @@
+Dynamo
+
+  You are a magical power source with only limited ability to draw from it yourself. Wands, weapons, everyday objects, and occasionally other creatures instead become your vessels.
+
+Class Features
+    As a dynamo, you gain the following class features.
+  Hit Points
+    Hit Dice: 1d8 per dynamo level
+    Hit Points at 1st Level: 8 + your Constitution modifier
+    Hit Points at Higher Levels: 1d8 (or 4) + your Constitution modifier per dynamo level after 1st
+  Proficiencies
+    Armor: Light
+    Weapons: simple weapons
+    Tools: jewler's tools and one other set of artisan's tools
+    Saving  Throws: Intelligence, Constitution
+    Skills: Choose three from Arcana, Sleight of Hand, Nature, Medicine, Investigation,
+
+Starting Equipment:
+  Any simple melee weapon
+  3 Rings and 1000 Ballbearings
+  a Dungeoneer's Pack or an Explorer's Pack
+  Studded Leather Armor or a Light Crossbow with 20 bolts
+
+Spellchanneling
+  Intelligence is your spellcasting ability for your spells.
+  Despite being a spellcaster, you do not have the ability to cast spells directly like other classes do.
+  // Gain spells like Sorcerer, but also prepare spells off of scrolls?? Suggestions?
+
+Create Conduit:
+    From 1st level, you have the ability to channel your spells into objects. Choose a spell you know and expend an appropriate spell slot (none if a cantrip) to turn a small object (no larger than a sword) into a conduit, as an action. When you do so describe a trigger condition which will release the spell. The object remains in this state for up to a minute and only as long as it stays within 15ft of you.
+    When the spell is released it is treated as having a range of 0 or touch and originating from the object. If the spell had a range of 'self' the spell instead affects a willing creature it is touching. Regardless, you are the caster of the spell so it uses your spellcasting modifier and any requirements of the caster, including concentration, fall to you. Components, additional casting time, and any decisions (ex burning hands' aim or prestidigitation) should be taken into account when creating the conduit and not when releasing the spell.
+    If the object is used to make an attack and the spell would have you make a spell attack that spell attack uses the same roll if it triggers from the attack.
+
+Dynamo Trade:
+  At 2nd level choose a Trade. Your trade grants you features at 2nd, 8th, 14th, and 20th level as well as additional spells.
+
+Ability Score Improvements:
+  When you reach 4th, 8th, 12th, 16th, and 19th levels, you know the drill
+
+Signal Extenders
+  At 4th level, conduits retain their magic up to 60ft
+
+Create Simple Wand:
+    Starting at 6th level, once per day you can take a minute to turn a small object into a wand by sacrificing your own spell slots. To create a wand, choose a spell of first level or higher you know and a number of spell slots that could cast that spell. Expend those spell slots, they are the wand's now. A creature who knows what spell the wand contains, or who succeeds at an arcana check (against your spell DC) to decern it, can cast that spell with any of the wand's spell slots. Spell components should be taken into account when creating the wand, and consequently are not necessary when casting the spell via the wand.
+    The wand lasts until you use this feature again or until its creator destroys it using an action. You cannot regain spell slots that are still in a wand.
+
+Rechargable Wand Batteries
+  At level 18, before regaining spell slots during a rest you may first have your wands regain up to half of their expended spell slots. Additionally, you can use your Create Simple Wand ability a second time each day and can have up to two wands before the oldest one stops working. (DMG's precident is to round down unless the original number is 1 in which case half of 1 is 1)
+
+Subclass options:
+
+  Caretaker - preparation, practicality, sacrifice, hard support role
+    // Bonus Spells: Ensnaring Strike, Spare the Dying, Sanctuary, Enhance Ability, Freedom of Movement
+    Patience:
+      When you choose this trade at 2nd level, you can think your way out of trouble like none other. You have learned Ritual Casting and how to channel your magic into hard flat surfaces via your Create Conduit ability.
+    Dance:
+      At 8th level, you begin to move thru the battlefield like a leaf on the wind. You can take the Disengage, Dodge, or Help action as a bonus action on each of your turns.
+    Compassion:
+      At 14th level, wands you create that cast healing spells can cast those spells as if they were one level higher than the spell slot used.
+    Energy:
+      At 20th level, conduits you create using spellslots of 5th level or lower can trigger twice before losing their magic. Those conduits cannot trigger multiple times in the same turn.
+
+  Spititualist -  stronger connections, adaptable, longevity, nearer to a traditional caster
+    // Bonus Spells: Counterspell, Dimension Door, Faerie Fire, Scorching Ray, Ray of Frost, Minor Illusion, Demiplane, Animate Objects
+    Flow:
+      When you choose this trade at 2nd level, you fill yourself with determination. Immediately after using your Create Conduit ability you can spend your bonus action to create another conduit using a cantrip you know. You have also learned to forgo other objects entirely and can use your own hands as conduits.
+    Clarity:
+      At 8th level, spells cast via your conduits have a range equal to half their normal range instead of 0. Aiming should be specified as part of the trigger condition.
+    Focus:
+      At 14th level, you learn how to create wands without overexerting your mind. When creating a wand you can spend an extra 8 hours per total spell slot level to create a wand without consuming your own spell slots. Every 24 hours that pass, make a CON save to stay focused thru the sleep deprivation, The DC is equal to 11 + the spell level and increases by 1 on each consecutive attempt. (Author's note: you can spend 40 hours (5 levels) on this and then 8 hours sleeping effectively without consequence. Any more then 136 hours (17 levels) would kill a player not being magically restored. Also, the DMG suggests making players roll CON saves when trying to go without sleep)
+    Gaze:
+      At 20th level, your conduits retain their magic for up to a day and at any range, so long as they are on the same plane of existance as you.
+
+  Bombardier - reckless, selfish, power hungry
+    // Bonus Spells: Create Bonfire, Fireball, Thunderwave, Grease, Levitate, Warding Bond
+    Cookies:
+      When you choose this trade at 2nd level, you gain proficiency with <b>improvised</b> ranged weapons. You automatically succeed saving throws for aoe spell effects you cause.
+    Morality:
+      At 8th level, when you expend a spellslot of first level or higher to use your Create Conduit ability you may choose 'Friend' or 'Foe'. When your conduit releases its spell, first roll on the Recklessness Chart below. Roll with advantage if you chose 'Friend' and disadvantage if you chose 'Foe'.
+    Creation:
+      At 14th level, when you use your Create Conduit ability using a spell slot of a higher level than the spell's level you can channel the same spell into an additional object for each extra level.
+    Crowd:
+      At 20th level, once per day you can use a creature of size large or smaller as a conduit. Until the effect ends, whenever that creature touches another creature of size large or smaller the latter also becomes a conduit just like the former. This multiplication can happen a number of times equal to your intelligence modifier (minimum 1). If the resulting spells take concentration you can concentrate on all these copies as if they were a single spell.
+
+--WIP--
+Recklessness Chart:
+    If the spell would affect multiple creatures, those are THE creatueres. Otherwise, THE creatures are "All creatures in 30 ft".
+
+    'Foe' rolls in the bad range 50% of the time and 'Friend' rolls in the good range 50% of the time. Each is < 10% to roll in the other
+
+  BAD: 00-29
+   - After the spell, THE creatures are reduced to 1 hitpoint
+   -
+  MIX/FUNNY: 30-69
+   - After the spell, THE creatures are turned to toads and then 2d6 more toads rain down around them. They all look indestinguishable from one another.
+   - The surrounding terrain becomes unnaturally squishy, making it difficult terrain. If the spell defines an AoE this affects the same area, otherwise this affects a 30ft radius.
+   - THE creatures enter a barbarian-esque rage. They have the effects of the Barbarian 'Rage' feature. If they don't have any barbarian levels their rage damage bonus is +2. (You can end a rage early as a bonus action)
+   - There is a loud pop causing all creatures in 30ft to spend their reaction and stare straight into the spell.
+   - For the next minute, the conduit becomes glued to anything it touches
+   - All metal in 30ft is immediately affected by Heat Metal. At initiative 20 each round for the next minute cause the damage again as if the caster had spent their bonus action.
+   - All non-magical items being carried by THE creatures become potted plants for a minute. Potted plants can be used as improvised melee or ranged bludgeoning weapons. (Items being worn are unaffected. ex clothes, armor, shields, packs, but not the contents of the packs)
+   -
+  GOOD: 70-99
+   - THE creatures grow bolder and each gain one d6 Bardic Inspiration die.
+   - THE creatures feel a rush of energy as thier minds grow sharper. They each regain one expended 3rd level or lower spellslot, if able.
+   - All affected creatures are healed for half their maximum hitpoints
+   -
+
+Core Spell List:
+  Burning Hands
+  Vampiric Touch
+  Thunderwave
+  Absorb Elements
+  Armor of Agathys
+  Guiding Bolt
+  Sleep
+  Mass Healing Word
+  Stone Shape

@@ -1,7 +1,11 @@
 Bullywug
-  * +1 STR, +1 DEX, +1 CON, swimming speed equal to walking speed
+
+  Foul Aristocracy
+  Unruly Diplomacy
+  Amphibian Allies
+
+  * +1 STR, +1 DEX, +1 CON, swimming speed equal to walking speed, amphibious
   * Languages: Common, Bullywug.
-  * Amphibious
   * Standing Leap: 20 ft long jump or 10 ft high jump with or without running start.
   * Croak: Can communicate vocally over unusually long distances.
   * Full of it: CHA checks against you have advantage when accompanied by bribes, treasure, or flattery.

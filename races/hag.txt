@@ -1,0 +1,25 @@
+Hag
+  * +2 CHA, 60ft darkvision
+  * You appear to be a human girl until your 13th birthday when take on a striking resemblance to your mother.
+  * Languages: Common and one language of your choice from (Draconic, Giant, Infernal, Primordial, Celestial)
+  * Illusory Appearance: You can cast disguise self at will
+  * Hag Eye: Using a real eye, varnish, and a 1 hour ritual you can create a Hag Eye. You can use your action to see what it sees (60ft darkvision), even from another plane. If it is destroyed you are blinded for a day.
+  * Heartstone: Over the course of one month you can charge a black gem with ethereal energy. While you have it in your possesion you can step back and forth between the Material Plane and the Ethereal Plane by focusing on it for a minute.
+
+  Sub-races:
+    Green: Love to manipulate others into doing your bidding.
+      * +1 WIS, you also know the Sylvan language.
+      * You know a cantrip from one of the following schools (divination, conjuration, illusion, transmutation).
+      * When you or an ally causes tragedy, you may cackle and spend your reaction to gain one of the following effects:
+        * End someone who was well loved - Their "followers" have disadvantage on CHA checks and saves for the next 24 hours.
+        * Reduce a religious/political/community building to ruins - Create a teleportation circle at the building's cooresponding location in the ethereal plane.
+        * Incite a riot - You have control over the weather for its duration as if by the Control Weather spell.
+    Night: Sly and subversive.
+      * +1 INT, you also know the Abyssal language.
+      * Soul Bag: Crafting a Soul Bag takes the better part of a week and the hide/skin of a humanoid sacrifice. 
+      * Dream Eater: From the Ethereal Plane, you can cause humanoids sleeping 'nearby' on the Material Plane to have dreadful visions. Doing so reduces their maximum hitpoints by 1d10 for 24 hours and denies them the effects of that rest. Should their mortality get the better of them, their soul is sucked into your soul bag. Hades prefers evil souls.
+    Sea: By far the ugliest of all hags. Slimy scales covering your pallid skin, your hair resembles seaweed draped over an emaciated body, and your glassy eyes seem as lifeless as a doll's.
+      * +1 CON, amphibious, swim speed equal to walking speed, you also know the Aquan language.
+      * Horrific Appearance: A creature that sees the real you must make a CON save (DC 10) or be forced to look away out of disgust. This happens every time. No one ever gets used to you.
+      * Ugly Inside and Out: Even while disguised you are still ugly.
+      * Gruesome Trinkets: You have proficiency in Lore about a creature if your home or your body is adorned with a piece of a member of its species.
